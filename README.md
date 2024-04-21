@@ -45,15 +45,19 @@ bir önceki tura göre yüzde 20 artacaktır.
 
 -> Oyunumuz projedeki isterleri tümüyle karşılamaktadır.
 
-⚙️🛠GEREKLİ UYGULAMALAR
+⚙️🛠GEREKLİ UYGULAMALAR⚙️🛠
 
 ->Biz bu projeyi yaparken Wokwi Simülasyonunu kullandık.
 Wokwide aynı anda hem kod yazabilmek hem de devreyi bağlayabilmek mümkün.Bu özelliğini beğendiğimizden biz Wokwiyi tercih ettik.Proteus ve Arduino ile de yapılabilir.
 
-🚨DEVRE KISMI
+🚨DEVRE KISMI🚨
 
 ->Devre elemanlarımız: Arduino Mega Kart,2 Seven Segment Display,Fotorezistör(Tuğlaların ve arkaplanın rengini değiştirebilmek için),TFT - LCD Display ekran, 3 Pushbutton(menüde seçenek seçebilmek için),3 led ve direnç (can sayısını gösterebilmek için),Potansiyometre(paletin hareketi için) ve bir sürü jumper kablo.
 
 Devre elemanları kullanımı ve örnekleri wokwide çok güzel açıklanmış.Dokümanlarından okuyabilirsiniz ve örnekler üzerinden devreye elemanların nasıl bağlanacağını görebilirsiniz.
 
 Devrenin gerekli bağlantılarını yaptıktan sonra son hali bu şekilde gözüküyor:
+
+<img width="597" alt="Ekran Resmi 2024-04-21 22 07 00" src="https://github.com/Melissportakall/Bricks_Breaker_Arduino_Game/assets/137406380/457ef37f-cdc3-4dc1-8467-7e9342065db9">
+
+🎮🕹️👾💻 OYUNUN BAŞLANGIÇ EKRANI VE ÇALIŞMASI 🎮🕹️👾💻
