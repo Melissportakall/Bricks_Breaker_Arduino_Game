@@ -66,5 +66,26 @@ Devrenin gerekli bağlantılarını yaptıktan sonra son hali bu şekilde gözü
 
 
 
+
+
 ╰┈➤ Oyun başladığında karşımıza menü geliyor.Menüyü butonlar ile kontrol ediyoruz.Başlat seçersek oyun başlatıldı yazısını görüp top paletin üzerinde hareketsiz şekilde oyunumuz açılıyor.Paleti hareket ettirdiğimiz anda top fizik kurallarına uygun şekilde hareketine başlıyor.Ve oyun boyunca fizik kurallarına göre hareket edip tuğlaları kırıyor.
+
+
+<img width="724" alt="Ekran Resmi 2024-04-21 22 19 48" src="https://github.com/Melissportakall/Bricks_Breaker_Arduino_Game/assets/137406380/7cb9bf73-de53-407f-a87d-e390d9c89ebe">
+<img width="514" alt="wokwi2" src="https://github.com/Melissportakall/Bricks_Breaker_Arduino_Game/assets/137406380/390009a1-4fa4-4565-a93f-96ca91ca2c32">
+
+╰┈➤Kırdığımız bazı tuğlalardan isterlere göre parça düşürüyoruz ve eğer palet ile düşen parçayı tutabilirsek can kazanmış oluyoruz.yanan led sayımızı güncelleyerek kalan can sayılarımızı ekranda gösteriyoruz.
+
+╰┈➤ Aynı şekilde kırdığımız tuğlalara göre skorumuz 2 digit seven segmnet displayde güncelleniyor ve skorumuzu görebiliyoruz.
+
+
+
+╰┈➤ Eğer çıkış seçeneğini seçersek ise "Seçilen seçenek:Çıkış" ve ardından "Oyunumuza gösterdiğiniz ilgi için teşekkürler." ekranı geliyor ve oyunumuz kapanıyor.
+
+
+╰┈➤Fotorezistör kullanımı sonucu oyunun görseli şu şekilde oluyor:
+
+
+╰┈➤Oyunu oynadık ve canımız bittiyse en son karşımıza şu ekran geliyor ve oyunumuz kapanıyor:
+
 
