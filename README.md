@@ -92,4 +92,4 @@ Devrenin gerekli bağlantılarını yaptıktan sonra son hali bu şekilde gözü
 
 ╰┈➤Oyunu oynadık ve canımız bittiyse en son karşımıza şu ekran geliyor ve oyunumuz kapanıyor:
 
-
+<img width="633" alt="Ekran Resmi 2024-04-21 22 21 22" src="https://github.com/Melissportakall/Bricks_Breaker_Arduino_Game/assets/137406380/cbf5938e-a8e2-4d03-bd04-c42de2617c8b">
