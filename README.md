@@ -86,6 +86,10 @@ Devrenin gerekli bağlantılarını yaptıktan sonra son hali bu şekilde gözü
 ╰┈➤Fotorezistör kullanımı sonucu oyunun görseli şu şekilde oluyor:
 
 
+
+<img width="486" alt="wokwi" src="https://github.com/Melissportakall/Bricks_Breaker_Arduino_Game/assets/137406380/ad45803c-e489-41a8-9be1-574e3e986e12">
+
+
 ╰┈➤Oyunu oynadık ve canımız bittiyse en son karşımıza şu ekran geliyor ve oyunumuz kapanıyor:
 
 
