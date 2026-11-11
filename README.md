@@ -79,7 +79,7 @@ You can test the circuit connections, review the source code, and play the game 
 
 <br />
 
-# 🇹🇷 (Türkçe) Arduino Mega Tabanlı 2D Tuğla Kırma Oyun Makinesi
+# Arduino Mega Tabanlı 2D Tuğla Kırma Oyun Makinesi
 
 Bu proje, **Arduino Mega** mikrodenetleyicisi üzerinde geliştirilmiş etkileşimli bir 2D Tuğla Kırma (Brick Breaker) oyun makinesidir. **Kocaeli Üniversitesi Bilgisayar Mühendisliği (PROLAB II)** eğitimi kapsamında **Arduino ve mikrodenetleyici mimarilerini öğrenme** sürecinde; donanım entegrasyonu, fizik tabanlı çarpışma algoritmaları, sensör kontrolü ve zamanlı oyun döngüsü geliştirmek amacıyla hazırlanmıştır.
 
